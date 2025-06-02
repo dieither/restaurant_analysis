@@ -1,5 +1,5 @@
 # Restaurant Data Analysis
-
+![Picture](chinese.jpg)
 An in-depth analysis of restaurant order data to identify sales patterns, product performance, and menu optimization opportunities.
 
 ## Project Overview
